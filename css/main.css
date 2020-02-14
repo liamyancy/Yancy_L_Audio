@@ -1,0 +1,21 @@
+
+div {
+	display: inline-block;
+	margin: 10px;
+}
+
+button {
+	font-size: 18px;
+	padding: 10px;
+	cursor: pointer;
+	border-radius: 5px;
+}
+
+button:hover {
+	filter: invert(100%);
+}
+
+.controllers {
+	display: block;
+	margin-top: 8px;
+}
